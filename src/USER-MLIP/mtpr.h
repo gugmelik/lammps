@@ -4,9 +4,9 @@
  *   See the LICENSE file for details.
  */
 
-#include "mlip_multidimensional_arrays.h"
-#include "mlip_radial_basis.h"
-#include "mlip_vector3.h"
+#include "multidimensional_arrays.h"
+#include "radial_basis.h"
+#include "vector3.h"
 
 #ifndef MLIP_MTPR_H
 #define MLIP_MTPR_H
